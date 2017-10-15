@@ -3,9 +3,9 @@
 
 
 <<<<<<< HEAD  
-	System.out.println("master");
+	Sys
 =======
-	System.out.println("dev");
+	Syste
 >>>>>>> dev
 	}
 }
