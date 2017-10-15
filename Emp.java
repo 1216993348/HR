@@ -3,7 +3,11 @@
 
 	System.out.println("master");
 
+<<<<<<< HEAD
 	System.out.println("dev");
 
+=======
+	System.out.println
+>>>>>>> dev
 	}
 }
