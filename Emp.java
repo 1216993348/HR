@@ -1,13 +1,11 @@
   public class Hello{
 	public static void main(String args[]){
 
+
+<<<<<<< HEAD  
 	System.out.println("master");
-
-<<<<<<< HEAD
-	System.out.println("dev");
-
 =======
-	System.out.println
+	System.out.println("dev");
 >>>>>>> dev
 	}
 }
