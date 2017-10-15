@@ -1,0 +1,200 @@
+
+body{
+	margin: 0px;
+	text-align:center;
+	background-image:url("../images/dept_1.jpg");
+	background-size: cover;
+}
+#zishu{ width:780px; margin :auto;}
+
+
+#g1{
+	margin: auto;
+	width: 900px;
+}
+.box{ float:left; width:225px; }
+.box2{ padding:0 5px 0 5px; text-align:left;}
+#t1{
+	width:180px;
+	height:180px;
+	border: 1px solid red;
+}
+.main{
+	background-image:url("../images/dept_3.png");
+	box-shadow:blue 0px 0px 10px;
+	border-radius:5px;
+	width: 650px;
+	margin:auto;
+	margin-top:50px;
+}
+.left{
+	width: 65%;
+
+	float:left;
+}
+.photo{
+	font-size:25px;
+	float:right;
+	width: 34%;
+	height:100%;
+	padding-top:20px;
+
+}
+ #preview, .img  {
+	width:250px;
+	height:250px;
+}
+#preview {
+	border:1px solid gray;
+	margin:auto;
+	margin-top: 10%;
+}
+.title{
+	font-size:35px;
+	text-align: center;
+}
+.input_box{
+	height:45px;
+	text-align:left;
+
+}
+.item{
+	width:150px;
+	height:35px;
+
+	display:block;
+	float:left;
+	clear:both;
+	line-height: 50px;
+	font-size:20px;
+	text-align:center;
+}
+.new_txt{
+	width:300px;
+	height:35px;
+	line-height: 30px;
+	font-size: 20px;
+	border-radius: 4px;
+	margin-top:5px;
+}
+.wrong_txt{
+	width:300px;
+	height:40px;
+	line-height: 30px;
+	font-size: 20px;
+	border-radius: 4px;
+	margin-top:5px;
+	border-color: red;
+}
+.button_box{
+	margin:auto;
+}
+.button{
+	height:40px;
+	width:100px;
+	font-size: 20px;
+	margin:35px ;
+	background-image:url("../images/dept_3.png");
+}
+.button2{
+	height:30px;
+	width:100px;
+	font-size: 16px;
+	margin-left:130px;
+	background-image:url("../images/dept_3.png");
+}
+.button3{
+	height:30px;
+	width:100px;
+	font-size: 16px;
+	margin-left:30px;
+	background-image:url("../images/dept_3.png");
+}
+.button:hover{
+	background: #D1EEEE;
+}
+.button2:hover{
+	background: #D1EEEE;
+}
+.button3:hover{
+	background: #D1EEEE;
+}
+tr:hover{
+	background-color: #FFFFFF;
+}
+a{
+	text-decoration: none;
+	color: blue;
+	cursor: pointer;
+}
+
+a:hover{
+	color: red;
+}
+a:active{
+	color: #00FFFF;
+}
+#empnoMsg,#enameMsg,#jobMsg,#hiredateMsg,#salMsg,#commMsg{
+
+	line-height: 50px;
+	font-size: 20px;
+}
+
+#table{
+	box-shadow:blue 0px 0px 10px;
+	border-radius:5px;
+	margin:auto;
+	margin-top:10px;
+}
+#splitBar{
+	margin-top:30px;
+}
+#rFloat{
+	margin-left:20px;
+}
+html,body {
+	margin: 0;
+	padding:0;
+	height: 100%;
+}
+#container {
+	min-height:100%;
+	height: auto !important;
+	height: 100%; /*IE6不识别min-height*/
+	position: relative;
+}
+#header {
+
+	padding: 10px;
+}
+
+#page {
+	width: 960px;
+	margin: 0 auto;
+	padding-bottom: 80px;/*等于footer的高度*/
+}
+
+#footer {
+	position: relative; margin-top: -60px;/*等于footer的高度*/ height: 60px; clear:both;
+
+}
+/*=======主体内容部分=======*/
+#left {
+	width: 220px;
+	float: left;
+	margin-right: 20px;
+	background: lime;
+}
+
+#content {
+	background: orange;
+	float: left;
+	width: 480px;
+	margin-right: 20px;
+}
+
+#right{
+	background: green;
+	float: right;
+	width: 220px;
+}
