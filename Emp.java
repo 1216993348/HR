@@ -2,4 +2,6 @@ public class Emp{
 	private Integer eno;
 	private Integer eno;
 	private String gitpro2;
+	private String gitpro;
+
 }
