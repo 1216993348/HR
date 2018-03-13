@@ -1,0 +1,27 @@
+From 60c0fb27ce0580c2f8d62fdcf2a3646a30a8fc53 Mon Sep 17 00:00:00 2001
+From: xhy <1216993348@qq.com>
+Date: Tue, 17 Oct 2017 21:58:42 +0800
+Subject: [PATCH 03/11] aaa
+
+---
+ Emp.java | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/Emp.java b/Emp.java
+index 5e4e28d..7d3fa3e 100644
+--- a/Emp.java
++++ b/Emp.java
+@@ -1,7 +1,7 @@
+ public class Emp{
+ 	private Integer eno;
+ 	private Integer eno;
+-	private String gitpro2;
+-	private String gitpro;
++	private String gitpro222222;
++
+ 
+ }
+\ No newline at end of file
+-- 
+2.14.2.windows.3
+
