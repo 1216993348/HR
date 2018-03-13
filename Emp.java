@@ -1,7 +1,8 @@
+cbssf
 public class Emp{
 	private Integer eno;
 	private Integer eno;
-	private String gitpro2;
-	private String gitpro;
+	private String gitpro222222;
+
 
 }
