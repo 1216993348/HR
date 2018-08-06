@@ -1,0 +1,69 @@
+body{
+	margin: 0px;
+	background-image: url("../images/dept_11.jpg");
+	background-size: cover;
+}
+.main{
+	
+	width:600px;
+	height:300px;
+	margin:auto;
+	margin-top: 100px;
+	background-image: url("../images/login-content-bg.gif");
+}
+.title{
+	width:180px;
+	height:50px;
+	margin:auto;
+	padding:10px;
+	font-size: 20;
+	font-family:SimHei;
+}
+.input{
+	
+	width:450px;
+	height:200px;
+	margin:auto;
+}
+.item{
+	font-size: 20px;
+	text-align: right;
+	line-height: 50px;
+
+}
+
+.new_txt,.wrong_txt,.c_txt,.wrong_ctxt{
+	height:34px;
+	font-size: 20px;
+	border-radius: 4px;
+}
+.new_txt,.wrong_txt{
+	width:300px;
+}
+.c_txt,.wrong_ctxt{
+	width:100px;
+}
+.wrong_txt,.wrong_ctxt{
+	border: 1px red solid;
+}
+
+.button1,.button2{
+	width:80px;
+	height:28px;
+	font-size: 18px;
+}
+.button1{
+	float:left;
+}
+.button2{
+	float:right;
+}
+.buttondiv{
+	width:300px;
+	margin:auto;
+	margin-top: 20px;
+}
+.img{
+	position: relative;
+	top:8px;
+}
