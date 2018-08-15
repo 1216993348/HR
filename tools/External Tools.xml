@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="clean-install-master " description="F:\apache-maven-3.5.2\bin\mvn.cmd" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" />
+      <option name="PARAMETERS" value="clean install -DskipTests=true" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+</toolSet>
