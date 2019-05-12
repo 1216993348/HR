@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.springframework.org/schema/context" location="E:/sourceTreeW/jedisDemo" />
+    <ignored-resource url="http://www.springframework.org/schema/context/spring-context-4.3.xsd" />
+  </component>
+</application>
