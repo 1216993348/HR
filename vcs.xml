@@ -1,4 +1,14 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ubtour.tech" />
+          <option name="userName" value="xianhuiyi" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="E:/sourceTreeW" />
   </component>
