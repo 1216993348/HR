@@ -1,0 +1,7 @@
+<templateSet group="methodTemplates">
+  <template name="*" value="/**&#10; * @author ${USER}&#10; * @Description TODO&#10; * @createTime ${YEAR}/${MONTH}/${DAY}&#10; * ${DATE}&#10; */" description="testD" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
