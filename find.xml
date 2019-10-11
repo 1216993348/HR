@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -18,6 +19,11 @@
       <mask>*.properties</mask>
       <mask>xml</mask>
       <mask>*.xml</mask>
+      <mask>s</mask>
+      <mask>sq</mask>
+      <mask>sql</mask>
+      <mask>.sql</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
